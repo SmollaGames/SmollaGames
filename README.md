@@ -17,6 +17,6 @@ Skills: HTML | SCC (sass, scss) | JS (React) | jQuery | C# | assembler
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm011a)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm011a&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm011a&show_icons=true&theme=onedark)  
 
 ![Profile views](https://gpvc.arturio.dev/sm011a)  
