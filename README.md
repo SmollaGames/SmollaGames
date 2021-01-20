@@ -5,10 +5,9 @@ I am passionate about web development and will soon be the best of the best. Tha
 
 Skills: HTML | SCC (sass, scss) | JS (React) | jQuery | C# | assembler
 
-- 🔭 I’m currently working on discord bot 
-- 🌱 I’m currently learning JS, node.js 
-- 👯 I’m looking to collaborate on Google or Microsoft 
-- 💬 Ask me about Music, network, games or gameDev 
+- 🔭 I'm working on my skills now
+- 🌱 I’m currently learning с#, unityApi
+- 👯 I want to cooperate with any game studio
 - 📫 How to reach me: [telegram](http://https://t.me/smolla), [instagram](https://www.instagram.com/sm011a/?hl=ru) 
 - 😄 Pronouns: Tony, Tosha, Macintosh 
 - ⚡ Fun fact: Ask on the [internet](http://google.com), he knows better ) 
