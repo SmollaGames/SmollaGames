@@ -3,7 +3,7 @@
 #### I am a student.
 I am passionate about web development and will soon be the best of the best. Thanks to those who believe in me, I will not let you down!
 
-Skills: HTML | SCC (sass, scss) | JS (React) | jQuery | C# | assembler
+Skills: HTML | SCC (sass, scss) | JS | C#
 
 - 🔭 I'm working on my skills now
 - 🌱 I’m currently learning с#, unityApi
