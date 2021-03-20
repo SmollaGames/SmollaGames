@@ -3,10 +3,10 @@
 #### I am a student.
 I am passionate about web development and will soon be the best of the best. Thanks to those who believe in me, I will not let you down!
 
-Skills: HTML | SCC (sass, scss) | JS | C#
+Skills: HTML | SCC (sass, scss) | JS | C# | etc.
 
 - 🔭 I'm working on my skills now
-- 🌱 I’m currently learning с#, unityApi
+- 🌱 I’m currently learning JS
 - 👯 I want to cooperate with any game studio
 - 📫 How to reach me: [telegram](http://https://t.me/smolla), [instagram](https://www.instagram.com/sm011a/?hl=ru) 
 - 😄 Pronouns: Tony, Tosha, Macintosh 
