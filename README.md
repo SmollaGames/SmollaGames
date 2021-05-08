@@ -8,7 +8,7 @@ Skills: HTML | SCC (sass, scss) | JS | C# | etc.
 - 🔭 I'm working on my skills now
 - 🌱 I’m currently learning C#
 - 👯 I want to cooperate with any game studio
-- 📫 How to reach me: [telegram](https://t.me/SmollaGames), [instagram](https://www.instagram.com/SmollaGames/?hl=ru) 
+- 📫 How to reach me: [telegram](https://t.me/SmollaGames), [instagram](https://www.instagram.com/smollagames/) 
 - 😄 Pronouns: Tony, Tosha, Macintosh 
 - ⚡ Fun fact: Ask on the [internet](http://google.com), he knows better ) 
 
