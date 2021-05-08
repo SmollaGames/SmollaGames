@@ -15,8 +15,8 @@ Skills: HTML | SCC (sass, scss) | JS | C# | etc.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sm011a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sm011a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://soundcloud.com/sm011a)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm011a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmollaGames)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm011a&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SmollaGames&show_icons=true&theme=tokyonight)  
 
-![Profile views](https://gpvc.arturio.dev/sm011a)  
+![Profile views](https://gpvc.arturio.dev/SmollaGames)  
