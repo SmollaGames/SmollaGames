@@ -1,8 +1,8 @@
 ### Hi, my name is Anton
 ### Usernames: sm011a and SmollaGames
-#### I am a worker.
+#### I am a worker.![Profile views](https://gpvc.arturio.dev/SmollaGames)  
 
-Skills: HTML | SCC (sass, scss) | JS | C# | etc. //Soft skills ![Profile views](https://gpvc.arturio.dev/SmollaGames)  
+Skills: HTML | SCC (sass, scss) | JS | C# | etc. //Soft skills
 - 🌱 I’m currently learning Unity C#
 - 📫 How to reach me: [telegram](https://t.me/SmollaGames), [instagram](https://www.instagram.com/smollagames/) 
 - 😄 Pronouns: Tony, Tosha, Macintosh 
