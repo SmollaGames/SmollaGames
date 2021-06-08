@@ -8,4 +8,4 @@ Skills: HTML | SCC (sass, scss) | JS | C# | etc. //Soft skills
 - 😄 Pronouns: Tony, Tosha, Macintosh 
 - ⚡ Fun fact: Ask on the [internet](http://google.com), he knows better )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmollaGames)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmollaGames&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
