@@ -11,6 +11,4 @@ Skills: HTML | SCC (sass, scss) | JS | C# | etc. //Soft skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmollaGames)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SmollaGames&show_icons=true&theme=tokyonight)  
-
 ![Profile views](https://gpvc.arturio.dev/SmollaGames)  
